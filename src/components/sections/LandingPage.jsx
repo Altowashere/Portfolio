@@ -87,7 +87,7 @@ const LandingPage = () => {
                 {/* Image container */}
                 <div className="relative rounded-2xl overflow-hidden m-[1px] h-[calc(100%-2px)]">
                   <img
-                    src="public/Tuff git pfp.jpg"
+                    src="./Tuff git pfp.jpg"
                     alt=""
                     className="w-full h-full object-cover"
                   />

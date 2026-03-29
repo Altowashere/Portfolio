@@ -24,8 +24,8 @@ const contacts = [
   {
     id: 3,
     label: "Twitter / X",
-    handle: "Idk",
-    description: "Follow my updates",
+    handle: "N/A",
+    description: "Will be set up soon",
     icon: SiX,
     href: Social_links.twitter,
   },
